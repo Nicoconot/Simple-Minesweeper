@@ -1,0 +1,8 @@
+
+Vcsharpsquid:S3903"-Move 'BoardGenerator' into a named namespace.(êØ”Ÿıÿÿÿÿ8ˆÖé»1
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(«¿­–8âÓÒÓ1
+šcsharpsquid:S3887"qUse an immutable collection or reduce the accessibility of the non-private readonly field 'correctlyMarkedBombs'.(ÜÌËÜüÿÿÿÿ8öêô»1
+“csharpsquid:S2386"jUse an immutable collection or reduce the accessibility of the public static field 'correctlyMarkedBombs'.(ÜÌËÜüÿÿÿÿ8ó±ñ»1
+kcsharpsquid:S2223"GChange the visibility of 'hasStarted' or make it 'const' or 'readonly'.(«¿­–8ãÓÒÓ1
+~csharpsquid:S2696;"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(Ç¤è¾üÿÿÿÿ8Í–÷Ô1
+ycsharpsquid:S2696E"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(»ÇÅ…8–Õ1

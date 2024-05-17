@@ -1,0 +1,5 @@
+
+Gcsharpsquid:S3903"%Move 'Colors' into a named namespace.(•¢×üÿÿÿÿ
+mcsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(éüìËıÿÿÿÿ8´À¬»1
+‹csharpsquid:S2386	"bUse an immutable collection or reduce the accessibility of the public static field 'NumberColors'.(éüìËıÿÿÿÿ8µÀ¬»1
+rcsharpsquid:S2223	"IChange the visibility of 'NumberColors' or make it 'const' or 'readonly'.(éüìËıÿÿÿÿ8Ïô­»1

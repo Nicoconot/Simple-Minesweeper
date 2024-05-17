@@ -1,0 +1,10 @@
+
+Gcsharpsquid:S3903I"#Move 'Tile' into a named namespace.(¼š´­8Œò¹1
+Icsharpsquid:S3903",Move 'TileGenerator' into a named namespace.(‹¼û½
+›csharpsquid:S1186"yAdd a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.(®±®“üÿÿÿÿ
+Jcsharpsquid:S108;")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+mcsharpsquid:S1104K"DMake this field 'private' and encapsulate it in a 'public' property.(¬–°¶ûÿÿÿÿ8ò¹1
+hcsharpsquid:S1104M"DMake this field 'private' and encapsulate it in a 'public' property.(Ñ‚È8ò¹1
+hcsharpsquid:S1104O"DMake this field 'private' and encapsulate it in a 'public' property.(£äœé8ò¹1
+Mcsharpsquid:S14816"+Remove the unused local variable 'randomX'.(¾İáøÿÿÿÿ
+Mcsharpsquid:S14816"+Remove the unused local variable 'randomY'.(¾İáøÿÿÿÿ
